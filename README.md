@@ -1,25 +1,25 @@
-# Привет, я Алексей Воробьёв
+# Hi, I'm Alexey Vorobyev
 
-**Основатель [Промум Тех](https://promum.tech)** — внедряю ИИ на российских промышленных предприятиях и строю продукты вокруг этого.
+**Founder of [Promum Tech](https://promum.tech).** I bring AI into Russian industrial companies and build products around it.
 
-Сам веду проект от разговора с заказчиком и аудита до работающего стенда: процессы, ТЗ, архитектура, код.
+I run a project end to end, from the first conversation with the customer and the audit to a working demo environment: processes, specs, architecture, code.
 
-## Чем занимаюсь
+## What I do
 
-- 🏭 **ИИ для промышленности:** ассистенты по данным 1С, анализ чертежей и КД, нормирование, документы по шаблонам
-- 🧱 **Платформы и внутренние системы:** мультитенантные сервисы, учёт с двойной записью, CRM и управление проектами
-- 📈 **Лидогенерация:** конвейер холодных B2B-рассылок, лендинги, воронки
-- 🧭 **Консалтинг:** предпроектный аудит, карты процессов, пилоты с честной оценкой рисков
+- 🏭 **AI for industry:** assistants over 1C data, drawing and design-documentation analysis, labor-time estimation, template-based documents
+- 🧱 **Platforms and internal systems:** multi-tenant services, double-entry accounting, CRM and project management
+- 📈 **Lead generation:** a cold B2B outreach pipeline, landing pages, funnels
+- 🧭 **Consulting:** pre-project audit, process maps, pilots with an honest risk assessment
 
-## Кейсы
+## Case studies
 
-Подробное резюме с бизнес-задачами, решениями и техническими деталями: **[Alex-4i/resume](https://github.com/Alex-4i/resume)**
+A detailed resume with business problems, solutions and technical details: **[Alex-4i/resume](https://github.com/Alex-4i/resume)**
 
-## Стек
+## Stack
 
-`Python` `Flask` `TypeScript` `Next.js` `React` `Prisma` `PostgreSQL` `SQLite` `MongoDB` `Docker` `nginx` `1С (OData)` `LLM: DeepSeek, Claude, локальные модели`
+`Python` `Flask` `TypeScript` `Next.js` `React` `Prisma` `PostgreSQL` `SQLite` `MongoDB` `Docker` `nginx` `1C (OData)` `LLMs: DeepSeek, Claude, local models`
 
-## Контакты
+## Contacts
 
-- Telegram-канал: [t.me/deal_in_product](https://t.me/deal_in_product)
-- Сайт компании: [promum.tech](https://promum.tech)
+- Telegram channel: [t.me/deal_in_product](https://t.me/deal_in_product)
+- Company website: [promum.tech](https://promum.tech)
